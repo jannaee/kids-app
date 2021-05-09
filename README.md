@@ -26,7 +26,7 @@ A brain dump of all things that will need to be explored, learned and scheduled 
      - [ ]  Animation with GoDot 2D Engine
   - [ ] GDNative/C++/GoDot environment setup
       - [Setting up on Windows](https://docs.godotengine.org/en/stable/development/compiling/compiling_for_windows.html)
-      - 3
+      - [2D Graphics, Sprites and Animation -- Godot 3 Tutorial Series](https://www.youtube.com/watch?v=Ok3fIQstvLw)
       - 4
 
 
