@@ -27,7 +27,8 @@ A brain dump of all things that will need to be explored, learned and scheduled 
   - [ ] GDNative/C++/GoDot environment setup
       - [Setting up on Windows](https://docs.godotengine.org/en/stable/development/compiling/compiling_for_windows.html)
       - [2D Graphics, Sprites and Animation -- Godot 3 Tutorial Series](https://www.youtube.com/watch?v=Ok3fIQstvLw)
-      - 4
+      - [G3D Innovation Engine](https://www.youtube.com/watch?v=Ok3fIQstvLw&list=RDCMUCr-5TdGkKszdbboXXsFZJTQ&start_radio=1&t=1161)
+      - [GoDot Shaders](https://godotshaders.com/)
 
 
 ### Timeline of events for June
