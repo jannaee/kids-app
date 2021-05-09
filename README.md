@@ -8,6 +8,7 @@ A brain dump of all things that will need to be explored, learned and scheduled 
 
 ### Timeline of events for May
 - [x] Create Repo
+- [ ] Confirm with Maude which OS are we working on? Will need to be similar builds
 - [ ] Set up Roadmap of projects in ZenHub
 - [ ] Create a Study schedule
 - [ ] Items requiring purchase
