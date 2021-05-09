@@ -25,8 +25,7 @@ A brain dump of all things that will need to be explored, learned and scheduled 
      - [ ]  Game development and design best practices
      - [ ]  Animation with GoDot 2D Engine
   - [ ] GDNative/C++/GoDot environment setup
-      - [Godot C++ VSCode Full Setup - GitHub Project w/ example](https://www.youtube.com/watch?v=X1bKjzdZmTA)
-      - 2
+      - [Setting up on Windows](https://docs.godotengine.org/en/stable/development/compiling/compiling_for_windows.html)
       - 3
       - 4
 
